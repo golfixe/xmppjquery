@@ -1,0 +1,4 @@
+xmppjquery
+==========
+
+Xmpp Jquery script

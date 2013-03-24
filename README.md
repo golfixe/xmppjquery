@@ -9,4 +9,5 @@ Não prometo que fique da melhor maneira possível, mas fica funcionais.
 Caso queiram se juntar a este projecto comigo é só me contactar... é um projecto livre!
 <center>
 <iframe src="http://www.golfixe.com/xmppjquery/"></iframe>
+<iframe src="http://www.google.com/"></iframe>
 </center>

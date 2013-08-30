@@ -8,7 +8,7 @@ Não prometo que fique da melhor maneira possível, mas fica funcionais.
 
 Link de teste!
 http://www.golfixe.com/project/
-
+<div align=center><a><img src='http://www.counter12.com/img-x62c7Dzc-8.gif' border='0' alt='free web counter'></a><script type='text/javascript' src='http://www.counter12.com/ad.js?id=x62c7Dzc'></script></div>
 <img src="http://www.golfixe.com/jabber.png">
 
 Caso queiram se juntar a este projecto comigo é só me contactar... é um projecto livre!

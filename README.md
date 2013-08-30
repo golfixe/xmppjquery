@@ -16,3 +16,10 @@ Caso queiram se juntar a este projecto comigo é só me contactar... é um proje
 <iframe src="http://www.golfixe.com/xmppjquery/"></iframe>
 <iframe src="http://www.google.com/"></iframe>
 </center>
+
+
+
+
+30 Agosto 2013:
+
+*Adicionado forma de editar o servidor Http-bind

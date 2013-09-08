@@ -23,3 +23,11 @@ Caso queiram se juntar a este projecto comigo é só me contactar... é um proje
 30 Agosto 2013:
 
 *Adicionado forma de editar o servidor Http-bind
+
+
+08 Setembro 2013
+
+*Menu para adicionar novos amigos
+*Mudar avatar e mensagem de estado
+*Debug (jenala para receber e enviar comandos xml)
+
